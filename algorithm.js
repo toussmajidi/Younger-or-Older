@@ -100,7 +100,6 @@ function birthday(date) {
     var milli = date.getTime() - bday.getTime();
 
     var days =  Math.ceil(milli/86400000);
-    //var years Math.ceil(milli/31536000000);
     if(days < 0){
         msg = "You are " + -days + " days younger.";
     } else if(days == 0){
