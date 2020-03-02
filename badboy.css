@@ -1,0 +1,45 @@
+#Pitbull {
+  margin-left: 50px;
+  height: 50px;
+  width: 200px;
+  border: 3px solid black;
+  text-align: center;
+  background-color: #00cccc;
+}
+
+#Teddy {
+  margin-left: 50px;
+  height: 50px;
+  width: 200px;
+  border: 3px solid black;
+  text-align: center;
+  background-color: #00cccc;
+
+}
+
+#Jojo {
+  height: 50px;
+  width: 200px;
+  border: 3px solid black;
+  margin-left: 300px;
+  margin-top: -55px;
+  text-align: center;
+  background-color: #00cccc;
+}
+
+#Joseph {
+  height: 50px;
+  width: 200px;
+  border: 3px solid black;
+  margin-left: 555px;
+  margin-top: -55px;
+  text-align: center;
+  background-color: #00cccc;
+}
+
+.input {
+  margin-top: 50px;
+  text-align:center;
+  font-weight: bold;
+}
+
